@@ -1,0 +1,3 @@
+Primeiro passo para configurar seu Kali-Linux
+Verificar o sistema de rede - colocar em modo ( bridged Adapter ).
+Abra o kali como root - vai em máquina - depois configurações - rede - seleciona o modo briged.
